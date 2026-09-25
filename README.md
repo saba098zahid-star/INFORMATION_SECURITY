@@ -80,6 +80,9 @@
     </section>
 
 </main>
+<footer>
+    <p>Stay Safe. Stay Secure. — Hira Zahid</p>
+</footer>
 <div class="tip">
     <h3>Protect Your OTP</h3>
     <p>Never share your OTP, password, or security code with anyone.</p>
