@@ -3,86 +3,12 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-    <title>Information-Security Awareness Platform</title>
+    <title>Information-Security Student</title>
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-
-    <header>
-    <h1>Information-security Awareness Platform</h1>
-    <p>Learn. Simulate. Stay Secure.</p>
-    <p><strong>Developed by:</strong> Saba Zahid </p>
-    </header>
-
-
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="learn.html">Learn</a>
-        <a href="simulators.html">Simulators</a>
-        <a href="quiz.html">Quiz</a>
-        <a href="about.html">About</a>
-    </nav>
-
-    <main>
-
-    <section>
-        <h2>About This Platform</h2>
-        <p>
-            This Information-security Awareness Platform is designed to educate users
-            about common cyber threats and safe online practices. The website
-            provides structured learning modules, interactive simulators, and
-            assessment tools to improve cybersecurity awareness.
-        </p>
-    </section>
-
-    <section>
-        <h2>Why Information-security Awareness Is Important</h2>
-        <p>
-            Many cyber attacks succeed not because of technical weaknesses,
-            but because users are unaware of common attack techniques.
-            Phishing, weak passwords, and social engineering are among the
-            most frequent causes of data breaches.
-        </p>
-        <p>
-            This platform focuses on human‑centric security by teaching users
-            how to recognize threats and respond correctly.
-        </p>
-    </section>
-
-    <section>
-        <h2>What You Will Learn</h2>
-        <ul>
-            <li>Basic concepts of cybersecurity</li>
-            <li>How phishing attacks work</li>
-            <li>How to create strong passwords</li>
-            <li>How brute force attacks exploit weak credentials</li>
-            <li>How social engineering targets human behavior</li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>How to Use This Website</h2>
-        <ol>
-            <li>Start with the <strong>Learn</strong> section to understand key concepts</li>
-            <li>Try the <strong>Simulators</strong> to experience attacks safely</li>
-            <li>Attempt the <strong>Quiz</strong> to test your understanding</li>
-            <li>Review mistakes and improve your awareness</li>
-        </ol>
-    </section>
-
-    <section>
-        <h2>Project Scope</h2>
-        <p>
-            This project is developed for educational purposes. All simulations
-            are ethical and do not perform real cyber attacks. No user data or
-            passwords are stored or transmitted.
-        </p>
-    </section>
-
-</main>
-<footer>
-    <p>Stay Safe. Stay Secure. — Hira Zahid</p>
-</footer>
+    <h1> About</h1>
+    <p>I am Cyber Security student. Learning about Information security</p>
 <div class="tip">
     <h3>Protect Your OTP</h3>
     <p>Never share your OTP, password, or security code with anyone.</p>
